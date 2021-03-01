@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+html {
+
+}
+body {
+    background-color: lightblue;
+    padding: 0 25%;
+}
+header > h1 {
+    color: white;
+    text-align: center;
+}
+.item {
+    height: 200px;
+    width: 150px;
+    float: left;
+    margin: 10px;
+    background-image: url(img/);
+}
