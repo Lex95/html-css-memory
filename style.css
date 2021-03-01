@@ -12,6 +12,8 @@ body {
 header > h1 {
     color: white;
     text-align: center;
+    font-size: 40px;
+    margin: 10px;
 }
 .row {
     width: 680px;
@@ -28,7 +30,7 @@ header > h1 {
     float: left;
     margin: 10px;
     background-image: url(img/pattern.png);
-    background-size: cover;
+    background-size: 100px;
     border: 1px solid black;
     border-radius: 10px;
 }
@@ -69,6 +71,9 @@ header > h1 {
 }
 .orange {
     color: orangered;
+}
+footer {
+    margin: 20px 0 40px 0;
 }
 footer > h4 {
     text-align: center;
