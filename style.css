@@ -44,3 +44,6 @@ header > h1 {
     color: red;
     text-align: center;
 }
+footer > h4 {
+    text-align: center;
+}
