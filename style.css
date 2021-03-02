@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
-
-}
 body {
     background-color: lightblue;
 }
@@ -43,6 +40,7 @@ header > h1 {
     background-color: white;
     border-radius: 10px;
     visibility: hidden;
+    /* si poteva usare anche display: none; e usare display: "tipo di inline" per renderlo visibile */
 }
 #visibile {
     visibility: visible;
